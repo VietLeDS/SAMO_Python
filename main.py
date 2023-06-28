@@ -16,7 +16,6 @@ from SAMO_Libs.Crosscheck import *
 if __name__ == '__main__':
     lg.info('Start')
 
-    # This file has been replace
     # This is daily flow, other reports just run if necessary
     
     # Source
